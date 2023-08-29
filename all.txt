@@ -1,0 +1,48 @@
+{
+    "_": "Message",      
+    "id": 6,
+    "from_user": {       
+        "_": "User",     
+        "id": 6421537794,
+        "is_self": false,
+        "is_contact": false,
+        "is_mutual_contact": false,
+        "is_deleted": false,
+        "is_bot": false,
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "is_premium": false,
+        "first_name": "Aaaa",
+        "status": "UserStatus.RECENTLY",
+        "username": "akhilAbhi123",
+        "language_code": "en"
+    },
+    "date": "2023-08-27 15:37:21",
+    "chat": {
+        "_": "Chat",
+        "id": 6421537794,
+        "type": "ChatType.PRIVATE",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "username": "akhilAbhi123",
+        "first_name": "Aaaa"
+    },
+    "mentioned": false,
+    "scheduled": false,
+    "from_scheduled": false,
+    "has_protected_content": false,
+    "text": "Hyy",
+    "outgoing": false
+}
+
+
+
+.PRChatTypeIVATE
+ChatType.GROUP
+ChatType.CHANNEL
