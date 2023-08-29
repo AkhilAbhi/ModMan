@@ -7,7 +7,8 @@ async def chekall(client,message):
         print('private chat')
     elif(name == "ChatType.GROUP"):
         # print("group chat")
-        await group.getMessage(client,message)
+        pass
+        #await group.getMessage(client,message)
     elif(name == "ChatType.CHANNEL"):
         print("chanel chat")
     else:
